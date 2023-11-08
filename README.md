@@ -35,7 +35,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 To display the Free Palestine sign:
 
-1. Power the MatrixPortal M4 using the micro USB cable.
+1. Power the MatrixPortal M4 using the USB-C cable.
 2. The images and phrases should automatically start displaying in a slideshow format.
 
 ### Contributing
