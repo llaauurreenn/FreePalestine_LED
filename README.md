@@ -6,10 +6,7 @@ This repository contains the code for an LED matrix display project using the Ad
 The code is based on "LED Matrix Display for Bitmap Pixel Art and Animation" by John Park, with modifications to support the pro-Palestine movement's messaging and imagery.
 
 <p align="center">
-  <img src="images/freepalestine.JPG" alt="Free Palestine LED Sign" title=""/>
-</p>
-<p align="center">
-  <img src="images/fromther.JPG" alt="From The River To The Sea LED Sign" title=""/>
+  <img src="images/sign.gif" alt="Free Palestine LED Sign" title=""/>
 </p>
 
 ## Getting Started
