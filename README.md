@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # Free Palestine LED Sign
 =======
-# FreePalestine_LED
->>>>>>> ccd3c64e6ed41f6201fc78f49bf7ba22dbd17671
 
 This repository contains the code for an LED matrix display project using the Adafruit MatrixPortal M4 and a 32x64 LED panel. The display shows images and phrases in solidarity with the people of Palestine as part of the Free Palestine movement.
 
