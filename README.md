@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # Free Palestine LED Sign
 =======
-# FreePalestine_LED
->>>>>>> ccd3c64e6ed41f6201fc78f49bf7ba22dbd17671
 
 This repository contains the code for an LED matrix display project using the Adafruit MatrixPortal M4 and a 32x64 LED panel. The display shows images and phrases in solidarity with the people of Palestine as part of the Free Palestine movement.
 
@@ -10,6 +7,9 @@ The code is based on "LED Matrix Display for Bitmap Pixel Art and Animation" by 
 
 <p align="center">
   <img src="images/freepalestine.JPG" alt="Free Palestine LED Sign" title=""/>
+</p>
+<p align="center">
+  <img src="images/fromther.JPG" alt="From The River To The Sea LED Sign" title=""/>
 </p>
 
 ## Getting Started
@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 - Adafruit MatrixPortal M4
 - 32x64 RGB LED Matrix panel
-- Micro USB cable for power and programming
+- USB-C cable for power and programming
 - Adafruit CircuitPython for MatrixPortal M4
 - Necessary CircuitPython libraries (as listed in `requirements.txt`)
 
